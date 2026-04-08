@@ -1,0 +1,64 @@
+  body {
+    margin: 0;
+    padding: 0;
+    background-image: url("imgs/space-game-background-neon-night-alien-landscape-free-vector.jpg");
+    background-size: 1500px;
+  }
+  #images-class{
+   margin: auto;
+   background-color: aliceblue;
+   display: flex;
+   width: 520px;
+   height: 300px;
+   justify-content: center;
+   justify-items: center;
+   border-radius: 15px;
+  }
+#result{
+   background-color: aliceblue;
+   display: flex;
+   top: 0;
+}
+      .rock{
+   display: flex;
+   padding: 0 25px;
+   margin: 10px;
+   width: 140px;
+   height: 90px;
+
+   }
+   .paper{
+   display: flex;
+   padding: 0 25px;
+   margin: 10px;
+      width: 140px;
+   height: 90px;
+
+   }
+   .mi9as{
+   display: flex;
+   padding: 0 25px;
+   margin: 10px;
+      width: 140px;
+   height: 90px;
+
+  }
+  .game-score{
+   display: block;
+   background-color: aliceblue;
+   padding: 0 120px;
+
+   top: 20px;
+   width: 300px;
+   margin: auto;
+   
+  }
+  #result{
+   display: fixed;
+   padding: 0 120px;
+   margin-bottom: 120%;
+  }
+
+
+
+ 
