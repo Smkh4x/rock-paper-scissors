@@ -1,8 +1,8 @@
 # 🎮 Rock Paper Scissors
 
-A simple and fun **Rock Paper Scissors** game built using [HTML, css , JavaScript].
+A simple and fun **Rock Paper Scissors** game built using " HTML, css , JavaScript ".
 
-## 📌 Description
+## Description
 This project is a classic implementation of the Rock-Paper-Scissors game where a player competes against the computer. The computer generates a random choice, and the winner is determined based on standard game rules.
 
 Rock Paper Scissors is a simple game where:
@@ -10,17 +10,17 @@ Rock Paper Scissors is a simple game where:
 - Scissors beats Paper
 - Paper beats Rock
 
-## 🚀 Features
-- 🎲 Random computer choice
-- 👤 Player input
-- 🧠 Game logic to determine the winner
-- 🔁 Replay option (if applicable)
-- 📊 Score tracking (if applicable)
+##  Features
+-  Random computer choice
+-  Player input
+-  Game logic to determine the winner
+-  Replay option (if applicable)
+-  Score tracking (if applicable)
 
-## 🛠️ Technologies Used
-- [Put your language: HTML / css / JavaScript.]
+##  Technologies Used
+HTML / css / JavaScript.
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Clone the repository
 ```bash
